@@ -41,7 +41,7 @@ This script provides a robust and flexible solution for managing iptables rules 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/Matt-THG/iptables-management-script.git
+    git clone https://github.com/NexteraMatt/iptables-management-script.git
     cd iptables-management-script
     ```
 
